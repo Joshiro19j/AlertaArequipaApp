@@ -82,7 +82,7 @@ class Contact {
     }
 }
 
-public class AlertaArequipa {
+public class AlertaAqp {
     static HashMap<String, String> usuarios = new HashMap<>();
     static List<Route> rutas = new ArrayList<>();
     static List<Contact> contactos = new ArrayList<>();
